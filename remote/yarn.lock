@@ -866,10 +866,10 @@ xterm-headless@5.2.0-beta.40:
   resolved "https://registry.yarnpkg.com/xterm-headless/-/xterm-headless-5.2.0-beta.40.tgz#6edba318d23ed350c8ec6279e6f61f40bde9b163"
   integrity sha512-6CHgR64POfa24CTILcq/HHg1im1u1HjJZSHWjlopP18KiS8Rq8dzCurZDsu38atxDK9dyjV8SRw2AB4ijcxZsQ==
 
-xterm@5.2.0-beta.40:
-  version "5.2.0-beta.40"
-  resolved "https://registry.yarnpkg.com/xterm/-/xterm-5.2.0-beta.40.tgz#c73d5576425dcd4fa6b48ce58b4224a7b5b9dbdf"
-  integrity sha512-7/Db3KPceM0VX4/YAKL+/ArvEHlGBwE3kt1oN9QP5TLaJ6r2ThMS7z7QwG8g2gy60GFnvjfvpcTv6Ewyste4zg==
+xterm@5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/xterm/-/xterm-5.3.0.tgz#867daf9cc826f3d45b5377320aabd996cb0fce46"
+  integrity sha512-8QqjlekLUFTrU6x7xck1MsPzPA571K5zNqWm0M0oroYEWVOptZ0+ubQSkQ3uxIEhcIHRujJy6emDWX4A7qyFzg==
 
 yallist@^4.0.0:
   version "4.0.0"
