@@ -80,7 +80,7 @@
   },
   "dependencies": {
     "node-fetch": "2.6.7",
-    "@vscode/extension-telemetry": "0.7.5"
+    "@vscode/extension-telemetry": "0.9.0"
   },
   "repository": {
     "type": "git",
